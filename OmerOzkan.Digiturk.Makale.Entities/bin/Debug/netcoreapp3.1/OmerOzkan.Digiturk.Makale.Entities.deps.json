@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OmerOzkan.Digiturk.Makale.Entities/1.0.0": {
+        "runtime": {
+          "OmerOzkan.Digiturk.Makale.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OmerOzkan.Digiturk.Makale.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

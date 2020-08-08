@@ -1,0 +1,15 @@
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.deps.json
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.runtimeconfig.json
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.runtimeconfig.dev.json
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.csproj.CopyComplete
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.DataAccess\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.genruntimeconfig.cache

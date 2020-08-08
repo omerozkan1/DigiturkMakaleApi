@@ -1,0 +1,9 @@
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.deps.json
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Entities\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.csprojAssemblyReference.cache

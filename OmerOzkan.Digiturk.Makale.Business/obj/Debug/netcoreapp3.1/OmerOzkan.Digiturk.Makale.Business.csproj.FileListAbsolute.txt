@@ -1,0 +1,14 @@
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.deps.json
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.DataAccess.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\bin\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Entities.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.csproj.CopyComplete
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.dll
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.pdb
+C:\Users\Ömer\source\repos\OmerOzkan.Digiturk.Makale\OmerOzkan.Digiturk.Makale.Business\obj\Debug\netcoreapp3.1\OmerOzkan.Digiturk.Makale.Business.csproj.CoreCompileInputs.cache
